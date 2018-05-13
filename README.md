@@ -1,8 +1,8 @@
 # dialogflow-chatbot
-####The simplest live chat bot example I could make. 
-####It employs Dialogflow (which is free) and takes about 10 minutes to setup.
+#### The simplest live chat bot example I could make. 
+#### It employs Dialogflow (which is free) and takes about 10 minutes to setup.
 
-##STEPS
+## STEPS
 1. Create Dialogflow account.
 2. Create new agent. **[CREATE AGENT]**
 3. Name the agent, and click **[CREATE]**.
