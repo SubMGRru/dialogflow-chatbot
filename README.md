@@ -3,10 +3,9 @@ The simplest live chat bot example I could make.
 It employs Dialogflow (which is free) and takes about 10 minutes to setup.
 
 <b>STEPS</b>
-<p>
+
 1. Create Dialogflow account.
 2. Create new agent. [CREATE AGENT]
-      - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 3. Name the agent, and click [create].
 4. Add an "Intent" by clicking [CREATE INTENT].
 5. Name the "Intent". This is the start of how user input will be routed to a proper respone.
@@ -24,4 +23,4 @@ It employs Dialogflow (which is free) and takes about 10 minutes to setup.
 11. Copy the code shown, and paste it anywhere in body index.html file.
 12. create a "gh-page" branch to the repository, 
 13. Set to default branch in repository settings, and scroll down to new link.
-</p>
+
